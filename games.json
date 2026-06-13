@@ -1,0 +1,123 @@
+{
+  "games": [
+    {
+      "id": "temple_run",
+      "name": "Temple Run 2",
+      "url": "https://poki.com/en/g/temple-run-2",
+      "control_mode": "zone",
+      "max_hands": 1,
+      "cooldown": 0.35,
+      "controls": {
+        "JUMP":  "up",
+        "DUCK":  "down",
+        "LEFT":  "left",
+        "RIGHT": "right"
+      },
+      "tips": [
+        "Point finger UP to jump over obstacles",
+        "Point DOWN to slide under barriers",
+        "Move LEFT or RIGHT to turn corners"
+      ]
+    },
+    {
+      "id": "subway_surfers",
+      "name": "Subway Surfers",
+      "url": "https://poki.com/en/g/subway-surfers",
+      "control_mode": "zone",
+      "max_hands": 1,
+      "cooldown": 0.35,
+      "controls": {
+        "JUMP":  "up",
+        "DUCK":  "down",
+        "LEFT":  "left",
+        "RIGHT": "right"
+      },
+      "tips": [
+        "Point UP to jump onto train roofs",
+        "Point DOWN to roll under barriers",
+        "LEFT or RIGHT to switch lanes"
+      ]
+    },
+    {
+      "id": "dino_game",
+      "name": "Chrome Dino",
+      "url": "https://chromedino.com",
+      "control_mode": "gesture",
+      "max_hands": 1,
+      "cooldown": 0.28,
+      "controls": {
+        "FIST":      "up",
+        "PEACE":     "up",
+        "THUMBS_UP": "up",
+        "OPEN_PALM": "down"
+      },
+      "tips": [
+        "FIST or PEACE sign to jump",
+        "OPEN PALM to duck under birds",
+        "Thumbs up also jumps!"
+      ]
+    },
+    {
+      "id": "geometry_dash",
+      "name": "Geometry Dash",
+      "url": "https://geometrydash.io",
+      "control_mode": "gesture",
+      "max_hands": 1,
+      "cooldown": 0.18,
+      "controls": {
+        "FIST":       "space",
+        "OPEN_PALM":  "space",
+        "PEACE":      "space",
+        "THUMBS_UP":  "space",
+        "POINT":      "space"
+      },
+      "tips": [
+        "Any gesture triggers jump / fly",
+        "Rhythm and timing are everything",
+        "Consistent gesture = consistent jumps"
+      ]
+    },
+    {
+      "id": "flappy_bird",
+      "name": "Flappy Bird",
+      "url": "https://flappybird.io",
+      "control_mode": "gesture",
+      "max_hands": 1,
+      "cooldown": 0.26,
+      "controls": {
+        "FIST":       "space",
+        "OPEN_PALM":  "space",
+        "POINT":      "space",
+        "PEACE":      "space",
+        "THUMBS_UP":  "space"
+      },
+      "tips": [
+        "Any gesture flaps the bird's wings",
+        "Gentle, timed flaps work best",
+        "Try to stay in a steady rhythm"
+      ]
+    },
+    {
+      "id": "street_fighter",
+      "name": "Street Fighter",
+      "url": "https://www.crazygames.com/game/street-fighter-2-game",
+      "control_mode": "hybrid",
+      "max_hands": 1,
+      "cooldown": 0.2,
+      "controls": {
+        "JUMP":       "up",
+        "DUCK":       "down",
+        "LEFT":       "left",
+        "RIGHT":      "right",
+        "FIST":       "z",
+        "OPEN_PALM":  "x",
+        "PEACE":      "c"
+      },
+      "tips": [
+        "Zone grid controls movement",
+        "FIST=punch (Z)  PALM=kick (X)",
+        "Peace sign = special move (C)"
+      ]
+    }
+  ]
+}
